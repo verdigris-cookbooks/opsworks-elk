@@ -1,6 +1,6 @@
 [submodule "elasticsearch"]
-  path = elasticsearch
-  url = https://github.com/elasticsearch/cookbook-elasticsearch.git
+	path = elasticsearch
+	url = https://github.com/elasticsearch/cookbook-elasticsearch.git
 [submodule "java"]
-  path = java
-  url = https://github.com/opscode-cookbooks/java.git
+	path = java
+	url = https://github.com/opscode-cookbooks/java.git
