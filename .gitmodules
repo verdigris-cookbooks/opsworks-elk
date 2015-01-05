@@ -13,3 +13,6 @@
 [submodule "monit"]
 	path = monit
 	url = git@github.com:apsoto/monit.git
+[submodule "ark"]
+	path = ark
+	url = git@github.com:burtlo/ark.git
