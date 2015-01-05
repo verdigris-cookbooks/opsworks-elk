@@ -4,3 +4,6 @@
 [submodule "java"]
 	path = java
 	url = git@github.com:agileorbit-cookbooks/java.git
+[submodule "build-essential"]
+	path = build-essential
+	url = git@github.com:opscode-cookbooks/build-essential.git
