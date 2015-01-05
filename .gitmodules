@@ -1,3 +1,6 @@
 [submodule "cookbook-elasticsearch"]
 	path = cookbook-elasticsearch
 	url = git@github.com:elasticsearch/cookbook-elasticsearch.git
+[submodule "java"]
+	path = java
+	url = git@github.com:agileorbit-cookbooks/java.git
