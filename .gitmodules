@@ -10,3 +10,6 @@
 [submodule "xml"]
 	path = xml
 	url = git@github.com:opscode-cookbooks/xml.git
+[submodule "monit"]
+	path = monit
+	url = git@github.com:apsoto/monit.git
