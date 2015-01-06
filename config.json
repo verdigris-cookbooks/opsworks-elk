@@ -1,0 +1,15 @@
+{
+  "elasticsearch" : {
+    "cluster" : { "name" : "verdigris-elk" },
+    "deb_url" : "https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.1.1.deb",
+    "deb_sha" : "4e43be2e1e8d0bc41f5c64b321d8feb85f1e2f9e9ce7bd64359ec4c7e16fe999"
+  },
+  "java" : {
+    "jdk_version" : "8",
+    "oracle" : {
+      "accept_oracle_download_terms" : true
+    },
+    "accept_license_agreement" : true,
+    "install_flavor" : "oracle"
+  }
+}
