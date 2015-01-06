@@ -16,3 +16,6 @@
 [submodule "ark"]
 	path = ark
 	url = git@github.com:burtlo/ark.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = git@github.com:jjasghar/rabbitmq.git
