@@ -19,3 +19,6 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = git@github.com:jjasghar/rabbitmq.git
+[submodule "erlang"]
+	path = erlang
+	url = git@github.com:opscode-cookbooks/erlang.git
