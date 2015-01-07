@@ -34,3 +34,6 @@
 [submodule "7-zip"]
 	path = 7-zip
 	url = https://github.com/sneal/7-zip.git
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/redguide/nodejs.git
