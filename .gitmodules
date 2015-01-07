@@ -52,3 +52,6 @@
 [submodule "dmg"]
 	path = dmg
 	url = https://github.com/opscode-cookbooks/dmg.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/hw-cookbooks/runit.git
