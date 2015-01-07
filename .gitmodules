@@ -1,5 +1,5 @@
 [submodule "elasticsearch"]
-	path = cookbook-elasticsearch
+	path = elasticsearch
 	url = https://github.com/elasticsearch/cookbook-elasticsearch.git
 [submodule "java"]
 	path = java
