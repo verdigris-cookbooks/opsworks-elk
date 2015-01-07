@@ -37,3 +37,6 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = https://github.com/redguide/nodejs.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
