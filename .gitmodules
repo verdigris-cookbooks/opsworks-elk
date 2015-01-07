@@ -25,3 +25,6 @@
 [submodule "route53"]
 	path = route53
 	url = https://github.com/hw-cookbooks/route53.git
+[submodule "windows"]
+	path = windows
+	url = https://github.com/opscode-cookbooks/windows.git
