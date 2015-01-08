@@ -55,3 +55,6 @@
 [submodule "runit"]
 	path = runit
 	url = https://github.com/hw-cookbooks/runit.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/miketheman/nginx.git
