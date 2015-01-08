@@ -79,3 +79,6 @@
 [submodule "libarchive"]
 	path = libarchive
 	url = https://github.com/reset/libarchive-cookbook.git
+[submodule "kibana"]
+	path = kibana
+	url = https://github.com/lusis/chef-kibana.git
