@@ -67,3 +67,6 @@
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/opscode-cookbooks/rsyslog.git
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/viverae-cookbooks/apache2.git
