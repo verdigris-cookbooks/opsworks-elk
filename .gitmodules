@@ -64,3 +64,6 @@
 [submodule "bluepill"]
 	path = bluepill
 	url = https://github.com/opscode-cookbooks/bluepill.git
+[submodule "rsyslog"]
+	path = rsyslog
+	url = https://github.com/opscode-cookbooks/rsyslog.git
