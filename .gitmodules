@@ -61,3 +61,6 @@
 [submodule "ohai"]
 	path = ohai
 	url = https://github.com/opscode-cookbooks/ohai.git
+[submodule "bluepill"]
+	path = bluepill
+	url = https://github.com/opscode-cookbooks/bluepill.git
