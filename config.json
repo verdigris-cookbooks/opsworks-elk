@@ -20,5 +20,9 @@
     },
     "accept_license_agreement": true,
     "install_flavor": "oracle"
+  },
+  "kibana": {
+    "install_path": "/var/www",
+    "es_server": "elasticsearch.verdigris.io"
   }
 }
