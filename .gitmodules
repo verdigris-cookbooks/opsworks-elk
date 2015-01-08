@@ -76,3 +76,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/stevendanna/logrotate.git
+[submodule "libarchive"]
+	path = libarchive
+	url = https://github.com/reset/libarchive-cookbook.git
