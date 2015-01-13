@@ -88,3 +88,6 @@
 [submodule "opsworks_rabbitmq"]
 	path = opsworks_rabbitmq
 	url = https://github.com/verdigris-cookbooks/opsworks-rabbitmq.git
+[submodule "hostsfile"]
+	path = hostsfile
+	url = https://github.com/customink-webops/hostsfile.git
