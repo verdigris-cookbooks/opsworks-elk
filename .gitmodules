@@ -91,3 +91,6 @@
 [submodule "hostsfile"]
 	path = hostsfile
 	url = https://github.com/customink-webops/hostsfile.git
+[submodule "yum-erlang_solutions"]
+	path = yum-erlang_solutions
+	url = https://github.com/chef-cookbooks/yum-erlang_solutions.git
