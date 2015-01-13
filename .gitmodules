@@ -91,3 +91,6 @@
 [submodule "yum-erlang_solutions"]
 	path = yum-erlang_solutions
 	url = https://github.com/chef-cookbooks/yum-erlang_solutions.git
+[submodule "opsworks_rabbitmq"]
+	path = opsworks_rabbitmq
+	url = https://github.com/verdigris-cookbooks/opsworks-rabbitmq.git
