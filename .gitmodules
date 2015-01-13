@@ -94,3 +94,6 @@
 [submodule "opsworks_rabbitmq"]
 	path = opsworks_rabbitmq
 	url = https://github.com/verdigris-cookbooks/opsworks-rabbitmq.git
+[submodule "opsworks_route53"]
+	path = opsworks_route53
+	url = https://github.com/verdigris-cookbooks/opsworks-route53.git
