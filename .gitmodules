@@ -106,3 +106,6 @@
 [submodule "ant"]
 	path = ant
 	url = https://github.com/opscode-cookbooks/ant.git
+[submodule "python"]
+	path = python
+	url = https://github.com/poise/python.git
