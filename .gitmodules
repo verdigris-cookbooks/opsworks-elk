@@ -100,3 +100,6 @@
 [submodule "opsworks_logstash"]
 	path = opsworks_logstash
 	url = https://github.com/verdigris-cookbooks/opsworks-logstash.git
+[submodule "logstash"]
+	path = logstash
+	url = https://github.com/lusis/chef-logstash.git
