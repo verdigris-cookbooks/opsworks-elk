@@ -97,3 +97,6 @@
 [submodule "opsworks_route53"]
 	path = opsworks_route53
 	url = https://github.com/verdigris-cookbooks/opsworks-route53.git
+[submodule "opsworks_logstash"]
+	path = opsworks_logstash
+	url = https://github.com/verdigris-cookbooks/opsworks-logstash.git
