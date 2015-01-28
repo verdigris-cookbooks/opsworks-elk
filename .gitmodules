@@ -108,7 +108,7 @@
 	url = https://github.com/retr0h/cookbook-curl.git
 [submodule "kibana_lwrp"]
 	path = kibana_lwrp
-	url = git@github.com:lusis/chef-kibana.git
+	url = https://github.com/lusis/chef-kibana.git
 [submodule "kibana"]
 	path = kibana
 	url = https://github.com/verdigris-cookbooks/kibana.git
