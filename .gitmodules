@@ -112,3 +112,6 @@
 [submodule "opsworks_kibana"]
 	path = opsworks_kibana
 	url = https://github.com/verdigris-cookbooks/opsworks-kibana.git
+[submodule "opsworks_elasticsearch"]
+	path = opsworks_elasticsearch
+	url = https://github.com/verdigris-cookbooks/opsworks-elasticsearch.git
